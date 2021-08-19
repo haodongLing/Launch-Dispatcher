@@ -1,0 +1,3 @@
+rootProject.name = "Launch-Dispatcher"
+include ':app'
+include ':launch_dispatcher'
